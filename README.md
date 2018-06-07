@@ -1,2 +1,2 @@
 # anglecalcWPF
-A simple program to calculate an angle between a hour hand and a minute hand
+A simple program to in WPF C# which calculate an angle between a hour hand and a minute hand
